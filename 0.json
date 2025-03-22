@@ -1,0 +1,8 @@
+{
+    "title": "你想参加我们的狂欢节活动吗？",
+    "options": [
+        {"value": "A", "lable": "想"},
+        {"value": "B", "lable": "想"},
+        {"value": "C", "lable": "想"}
+    ]
+}
